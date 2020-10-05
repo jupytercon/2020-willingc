@@ -1,3 +1,4 @@
+<!-- #region -->
 # JupyterCon Tutorial 2020
 
 - Website: https://jupytercon.com/
@@ -7,53 +8,46 @@
 ## Tutorial Title: Open Source Fundamentals
 
 - **Duration:** 2h (120 minutes)
-- **Audience level**: Anyone interested in learning about Open Source governance
-- **Prerequisite**: *None*
 
 ## Section Title: Open-source governance and leadership
 
 - **Section duration:** 20 minutes
+- **Audience level**: Anyone interested in learning about Open Source governance
+- **Prerequisite**: *None*
 
 ### Section Description
 
-**Short Description:**
-
 This tutorial is a section of the Jupyter 2020 series on Open Source Fundamentals.
-It is organised in 4 short modules that are developed in Jupyter Notebooks and paired
-with introductory videos. This section focuses on open source governance and 
+It is organised in 5 short modules that are developed in Jupyter Notebooks.
+This section of the Open Source Fundamentals tutorial focuses on open source governance and 
 leadership including governance models, ensuring long-term sustainability, and 
 the onboarding and offboarding of leaders.
 
 The notebooks for instruction include:
 
-1. Introduction: [1-governance-introduction.ipynb](https://github.com/jupytercon/)
-2. Governance models: [2-governance-models.ipynb](https://github.com/jupytercon/)
-3. Sustainability: [3-governance-sustainability.ipynb](https://github.com/jupytercon/)
-4. Leadership: [4-governance-leadership.ipynb](https://github.com/jupytercon/)
-5. Next steps: [5-governance-next-steps.ipynb](https://github.com/jupytercon/)
+1. Introduction: [1-governance-introduction.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/1-governance-introduction.ipynb)
+2. Governance models: [2-governance-models.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/2-governance-models.ipynb)
+3. Sustainability: [3-governance-sustainability.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/3-governance-sustainability.ipynb)
+4. Leadership: [4-governance-leadership.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/4-governance-leadership.ipynb)
+5. Next steps: [5-governance-next-steps.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/5-governance-next-steps.ipynb))
 
-Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
-All the presentations used in the introductory videos are provided in the [presentation directory](./presentations).
+Please visit the [notebooks directory](./notebooks) to find the tutorial files for this section.
 
-**Session detail:**
+The tutorial section will introduce learners to basic concepts and practices necessary to select a governance
+model for an open source project.
 
-The tutorial will introduce our learners to basic concepts and practices necessary to build diverse and inclusive Open Source communities.
-- In the first module, we will discuss 
-- In the second module, we will 
-- The third and fourth modulea builds on the first and second modules and discusses 
-- Finally, in the last module, we learn about 
 
 ### Learning outcomes
 
 In this tutorial, our learners will:
-- understand 
-- learn about the concept of 
-- explore 
-- understanding the leadership structure 
+- understand why open source governance matters
+- explore key questions that guide selection of a governance model
+- learn about the concept of governance models
+- understanding open source leadership and sustainability of a project 
 
 ### Instructor details
 
-- Name: Carol Willing
+- Name: **Carol Willing**
     - Title: Technical Evangelist
     - Organization: [Noteable](https://noteable.io)
     - Biography: **Carol Naslund Willing** serves on Project Jupyter’s Steering Council
@@ -73,4 +67,9 @@ In this tutorial, our learners will:
 
 ### License
 
-[Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/CC-BY Creative Commons Attribution license)
+[Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+<!-- #endregion -->
+
+```python
+
+```
