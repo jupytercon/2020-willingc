@@ -14,7 +14,7 @@
 
 - **Section duration:** 20 minutes
 
-### Sectopm Description
+### Section Description
 
 **Short Description:**
 
@@ -73,4 +73,4 @@ In this tutorial, our learners will:
 
 ### License
 
-CC-BY Creative Commons Attribution license
+[Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/CC-BY Creative Commons Attribution license)
