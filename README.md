@@ -25,11 +25,11 @@ the onboarding and offboarding of leaders.
 
 The notebooks for instruction include:
 
-1. Introduction: [1-governance-introduction.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/1-governance-introduction.ipynb)
-2. Governance models: [2-governance-models.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/2-governance-models.ipynb)
-3. Sustainability: [3-governance-sustainability.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/3-governance-sustainability.ipynb)
-4. Leadership: [4-governance-leadership.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/4-governance-leadership.ipynb)
-5. Next steps: [5-governance-next-steps.ipynb](https://github.com/jupytercon/2020-willingc/notebooks/5-governance-next-steps.ipynb))
+1. Introduction: [1-governance-introduction.ipynb](https://github.com/jupytercon/2020-willingc/blob/master/notebooks/1-governance-introduction.ipynb)
+2. Governance models: [2-governance-models.ipynb](https://github.com/jupytercon/2020-willingc/blob/master/notebooks/2-governance-models.ipynb)
+3. Sustainability: [3-governance-sustainability.ipynb](https://github.com/jupytercon/2020-willingc/blob/master/notebooks/3-governance-sustainability.ipynb)
+4. Leadership: [4-governance-leadership.ipynb](https://github.com/jupytercon/2020-willingc/blob/master/notebooks/4-governance-leadership.ipynb)
+5. Next steps: [5-governance-next-steps.ipynb](https://github.com/jupytercon/2020-willingc/blob/master/notebooks/5-governance-next-steps.ipynb))
 
 Please visit the [notebooks directory](./notebooks) to find the tutorial files for this section.
 
